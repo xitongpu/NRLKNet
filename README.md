@@ -46,6 +46,8 @@ In the input field next to the **"Start Inference"** button, enter the number of
 
 ## Notes
 • **Purpose of ModEval**: This app is designed solely for evaluating the deployment and inference latency of models on actual AIoT devices. It does not assess classification accuracy (a device-independent metric). To simplify the evaluation process, we use random numbers with the same shape as the input signal as model inputs.
+
 • **Flexibility**: By allowing users to select different models and input sizes, this app can evaluate the deployment latency of various models, providing a practical tool for deployment optimization.
+
 • **Future Updates**: We will continue to update this app to enhance its functionality.
 
